@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:58.943438
+#+DATE: 2015-08-30 20:20:59.141156
 #+TITLE: 佛說出家緣經
 #+PROPERTY: CBETA_ID T17n0791
 #+PROPERTY: ID KR6i0495
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 791
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0495_T_000-0736b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0495_T_001-0736b> ¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.791¶
-
- 《佛說出家緣經》¶
+No. 791¶
+《佛說出家緣經》¶
 ¶
-後漢安息國三藏安世高譯¶
+後漢沙門安世高譯¶
 
 如是我聞：
 
@@ -43,7 +42,7 @@ No.791¶
 
 「邪婬有十惡事。¶
 何等十？常為其夫伺捕楚毒，室家不和；善法¶
-消竭，不善法增；危敗軀身；不檢其妻，不守¶
+消竭，不善日增；危敗軀身；不檢其妻，不守¶
 財賄；常為人疑，宗親不信；種業如是；門不貞¶
 潔；身壞命終生地獄中；設得為女，非獨一主，¶
 設得為男，馳騁邪婬，自失其妻。是十惡事。
